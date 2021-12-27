@@ -1,0 +1,28 @@
+﻿configure_file ("Board.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("guard.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("coin.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("ladder.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("runner.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("rod.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("wall.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("present.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("over.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("FontFile.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("born.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("dead.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("dig.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("down.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("fall.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("getGold.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("pass.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("explanation.jpeg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("opening.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("play.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("exit.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("present.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("nextLevel.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("createEnemy.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+
+
